@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shortestpath.iml" filepath="$PROJECT_DIR$/.idea/modules/shortestpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shortestpath_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shortestpath_main.iml" group="shortestpath" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shortestpath_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shortestpath_test.iml" group="shortestpath" />
+    </modules>
+  </component>
+</project>
